@@ -29,7 +29,11 @@
 @media all and (max-width: 767px){
 	*{
 		font-size: 14px;
-	}	
+	}
+	
+	.navbar-brand > img{
+		padding-left: 30px;
+	}
 
 	.navbar-default {			
 		margin-bottom: 50px;				
