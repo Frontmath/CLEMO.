@@ -134,7 +134,7 @@
 		margin: 20px 0;
 	}
 
-	.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {	    
+	#slider_head .bx-wrapper .bx-pager, #slider_head .bx-wrapper .bx-controls-auto {	    
 	    bottom: 20px;
 	    right: 115px;	    
 	}
